@@ -44,6 +44,7 @@ main {
   justify-self: center;
   align-self: center;
   width: 140px;
+  margin-right: 125px;
 }
 
 .header-logo-image {
@@ -105,13 +106,13 @@ main {
 
 .aligned-text {
   display: block;
-  letter-spacing: 3px;
+  letter-spacing: 30px;
 }
 
 .aligned-text-center {
   line-height: 1;
   text-align: center;
-  letter-spacing: 13px;
+  letter-spacing: 30px;
 }
 
 .aligned-text-right {
@@ -120,7 +121,8 @@ main {
 }
 
 .letter-spacing-extended {
-  letter-spacing: 0.6em;
+  letter-spacing: 60px;
+  padding-left: 30px;
 }
 
 .remove-letter-spacing {
