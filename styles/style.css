@@ -161,6 +161,7 @@ main {
 
 .lots {
   padding: 0 50px;
+  width: 100%;
 }
 
 .lots-heading {
@@ -195,7 +196,7 @@ main {
   gap: 30px;
   width: auto;
   height: 100%;
-  padding: 50px 40px;
+  padding: 50px 7px 45px 52px;
 }
 
 .card-type-film {
@@ -223,7 +224,7 @@ main {
   font-weight: bold;
   font-size: 22px;
   line-height: 120%;
-  text-decoration-line: underline;
+  text-decoration-line: none;
   text-transform: uppercase;
 }
 
